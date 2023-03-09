@@ -1,0 +1,1 @@
+O HTML e CSS desse projeto foi desenvolvido pela plataforma Alura, Ja o JavaScript foi desenvolvido por mim "Com a ajuda de aulas vistas na plataforma alura"!!!
